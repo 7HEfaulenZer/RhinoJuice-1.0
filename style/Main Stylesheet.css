@@ -245,7 +245,6 @@ section{
     padding: 10px;
     color: red;
     background: black;
-    font-family: 'Century Gothic';
     transition: .3s ease;
     transition-delay: 1s;
     z-index: 1000;
@@ -446,7 +445,6 @@ section{
     font-size: 25px;
     letter-spacing: 4px;
     transition: all 0.4s ease;
-    font-family: 'Century Gothic';
     font-weight: lighter;
     border-radius: 35px;
   }

@@ -740,6 +740,7 @@ section{
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding: 20px;
 }
 input,
 textarea,
@@ -775,7 +776,6 @@ textarea{
 .fruits{
   margin-top: 50px;
   object-fit: cover;
-  overflow-x: scroll;
 }
 
 /*--------------------------*/

@@ -753,15 +753,18 @@ textarea,
   padding: 18px;
   color: rgb(255, 255, 255);
   transition: .25s ease;
+  font-family: 'Poppins';
 }
 textarea{
   height: 10rem;
+  font-family: 'Poppins';
 }
 .btn{
   padding: 20px;
   cursor: pointer;
   font-size: 1rem;
   transition: 0s;
+  font-family: 'Poppins';
 }
 .btn:hover{
   background: rgb(20, 20, 20);

@@ -774,6 +774,7 @@ textarea{
 
 .fruits{
   margin-top: 50px;
+  object-fit: cover;
 }
 
 /*--------------------------*/

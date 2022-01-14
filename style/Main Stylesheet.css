@@ -752,6 +752,7 @@ section{
   background-image: linear-gradient(to bottom, rgb(26, 36, 95), rgb(38, 26, 66));
   font-size: 1em;
   padding: 20px;
+  font-family: 'Poppins';
 }
 
 .Feedback{

@@ -36,6 +36,7 @@
 /*-----------------------------------------------------------------------------*/
   .page-content{
     transform: translateY(0rem);
+    overflow-x: hidden;
   }
 /*-----------------------------------------------------------------------------*/
   nav{
@@ -694,6 +695,7 @@ section{
   background-image: linear-gradient(to bottom, rgb(38, 26, 66), rgb(29, 38, 80));
   font-size: 1em;
   padding: 20px;
+  overflow-x: hidden;
 }
 
 .fruchtkette{

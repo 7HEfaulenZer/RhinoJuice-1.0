@@ -32,6 +32,7 @@
     background: rgb(192, 187, 156);
     height: 100%;
     overflow-x: hidden;
+    position: relative;
   }
 /*-----------------------------------------------------------------------------*/
   .page-content{

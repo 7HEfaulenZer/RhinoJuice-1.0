@@ -3,6 +3,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: 'Century Gothic';
   }
   *,
   *::before,
@@ -31,15 +32,10 @@
     background: rgb(192, 187, 156);
     height: 100%;
     overflow-x: hidden;
-    position: relative;
-    overflow-y: scroll;
   }
 /*-----------------------------------------------------------------------------*/
   .page-content{
     transform: translateY(0rem);
-    overflow-x: hidden;
-    position: relative;
-    overflow-y: scroll;
   }
 /*-----------------------------------------------------------------------------*/
   nav{
@@ -247,10 +243,10 @@ section{
     padding: 10px;
     color: red;
     background: black;
+    font-family: 'Century Gothic';
     transition: .3s ease;
     transition-delay: 1s;
     z-index: 1000;
-    font-family: 'Poppins';
   }
   .v{
     color: rgb(107, 255, 87);
@@ -448,6 +444,7 @@ section{
     font-size: 25px;
     letter-spacing: 4px;
     transition: all 0.4s ease;
+    font-family: 'Century Gothic';
     font-weight: lighter;
     border-radius: 35px;
   }
@@ -697,26 +694,8 @@ section{
   background-image: linear-gradient(to bottom, rgb(38, 26, 66), rgb(29, 38, 80));
   font-size: 1em;
   padding: 20px;
-  overflow-x: hidden;
 }
 
-.fruchtkette{
-  margin-top: 50px;
-  animation: fk 20s ease infinite alternate;
-}
-@keyframes fk {
-  0% {
-    transform: translateX(-25vw);
-  }
-  100% {
-    transform: translateX(25vw);
-  }
-}
-@media screen and (max-width: 500px){
-  .fruchtkette{
-    animation: fk 6s ease infinite alternate;
-  }
- }
 
 /*-----------------------------------------------------------------------------*/
 
@@ -755,7 +734,6 @@ section{
   background-image: linear-gradient(to bottom, rgb(26, 36, 95), rgb(38, 26, 66));
   font-size: 1em;
   padding: 20px;
-  font-family: 'Poppins';
 }
 
 .Feedback{

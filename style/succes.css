@@ -11,7 +11,7 @@
     box-sizing: border-box;
   }
 
-.succes{
+.success{
   min-height: 100vh;
   width: 100vw;
   background-image: linear-gradient(to left, rgb(127, 89, 197), rgb(223, 140, 64));

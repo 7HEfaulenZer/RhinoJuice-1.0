@@ -247,6 +247,7 @@ section{
     transition: .3s ease;
     transition-delay: 1s;
     z-index: 1000;
+    font-family: 'Poppins';
   }
   .v{
     color: rgb(107, 255, 87);
